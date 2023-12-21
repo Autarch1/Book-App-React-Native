@@ -6,7 +6,7 @@
             "id" : "1",
             "title" : "The Lord of the Rings",
             "author" : "J. R. R. Tolkien",
-            "description" : "The Lord of the Rings is a fictional book written by J. R. R. Tolkien and published by <NAME>. It is the fifth and final book of the fifteenth-century literary series by J. R. R. Tolkien.",
+            "description" : "The Lord of the Rings is a fictional book written by J. R. R. Tolkien and published by J. R. R. Tolkien. It is the fifth and final book of the fifteenth-century literary series by J. R. R. Tolkien.",
             "image" : "LOTR",
             "price" : 10.99
         },
